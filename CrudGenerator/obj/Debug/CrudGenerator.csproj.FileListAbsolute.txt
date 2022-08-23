@@ -1,0 +1,27 @@
+D:\generador de base de datos\CrudGenerator\CrudGenerator\bin\Debug\CrudGenerator.exe
+D:\generador de base de datos\CrudGenerator\CrudGenerator\bin\Debug\CrudGenerator.pdb
+D:\generador de base de datos\CrudGenerator\CrudGenerator\obj\Debug\ResolveAssemblyReference.cache
+D:\generador de base de datos\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.Form1.resources
+D:\generador de base de datos\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.Properties.Resources.resources
+D:\generador de base de datos\CrudGenerator\CrudGenerator\obj\Debug\ResGen.read.1.tlog
+D:\generador de base de datos\CrudGenerator\CrudGenerator\obj\Debug\ResGen.write.1.tlog
+D:\generador de base de datos\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.exe
+D:\generador de base de datos\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.pdb
+G:\ \7mo semestre\Programacion Avanzada\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.exe
+G:\ \7mo semestre\Programacion Avanzada\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.pdb
+F:\ \7mo semestre\Programacion Avanzada\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.exe
+F:\ \7mo semestre\Programacion Avanzada\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.pdb
+H:\ \7mo semestre\Programacion Avanzada\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.exe
+H:\ \7mo semestre\Programacion Avanzada\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.pdb
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.exe
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.pdb
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\bin\Debug\CrudGenerator.exe
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\bin\Debug\CrudGenerator.pdb
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.csprojResolveAssemblyReference.cache
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.Form1.resources
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.Properties.Resources.resources
+D:\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.csproj.GenerateResource.Cache
+D:\Archivos amir\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.exe
+D:\Archivos amir\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.pdb
+H:\8vo Semestre\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.exe
+H:\8vo Semestre\Generador de Sistemas Amir\CrudGenerator\CrudGenerator\obj\Debug\CrudGenerator.pdb
